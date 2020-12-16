@@ -1,0 +1,10 @@
+@import url("components/navbar.css");
+
+.yolo {
+  height: 100vh;
+  color: red;
+  background-image: url("../images/dragon.jpg");
+}
+
+
+
